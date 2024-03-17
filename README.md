@@ -220,3 +220,4 @@ ORDER BY 1;
 
 
 ## Database schema
+<img width="594" alt="schema_diagram" src="https://github.com/pratyay2409/Music-Store-Data-Analysis/assets/92170433/02c20867-dedf-4036-8121-a6f95da44d4c">
